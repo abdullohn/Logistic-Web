@@ -5,4 +5,4 @@ The process of software testing aims not only at finding faults in the existing 
 It mainly aims at measuring specification, functionality and performance of a software program or application.
 
 ## About
-This repository is about basic of software testing 
+This repository is about basic of software testing from https://github.com/kodeid-resources/simple-cart-app and managed & edited for academic purposes
